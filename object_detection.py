@@ -1,6 +1,3 @@
-##IMAGE PROCESSING PYTHON CODE
-
-
 import numpy as np
 import imutils
 import cv2

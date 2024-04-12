@@ -1,5 +1,3 @@
-//ARDUINO MEGA (IMAGE PROCESSING)
-
 int in1=2;
 int in2=3;
 int en1=6;
