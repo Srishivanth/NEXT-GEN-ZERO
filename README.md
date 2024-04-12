@@ -28,7 +28,11 @@ The file named "object_detction.py" is used to detect the animals using on-board
 
 <br>
 Authors:
+    <br>
     Srishivanth R F
+    <br>
     Krishna Prasath S
+    <br>
     Vignesh K
+    <br>
     Joseph Raj B    
